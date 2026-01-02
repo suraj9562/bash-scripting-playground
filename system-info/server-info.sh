@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Description: Collects disk usage, CPU usage, RAM usage, and kernel version
+# Description: Collects disk usage, CPU usage, RAM usage, and kernel version
 # Author: Suraj Wadikar
 # Usage: ./server-info.sh
 
